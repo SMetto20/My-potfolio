@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:poppins;
+    background-color:#002431 ;
+    color:white;
+}
+.header{
+ height:100vh;
+}
+.navbar-css{
+ box-shadow: 0 5px 10px black;
+}
+.port{
+    color: #8B643B ;
+}
+.black{
+    color:black;
+}
+a{
+    color: #efefef;
+}
+.icon-bar{
+    background:#8B643B ;
+}
+.flag{
+    height:28vh;
+    width :45vh;
+    margin-top:20vh ;
+}
+.intro{
+    margin-top: 18vh;
+}
+.sandra{
+
+    font-size: 50px;
+}
+.software{
+    font-size: 42px;
+}
+.list{
+    display:flex ;
+   
+}
+.design{
+    padding-right: 11vh;
+    font-size: 20px;
+}
